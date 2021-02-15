@@ -1,0 +1,96 @@
+@font-face{ 
+	font-family: 'MyWebFont';
+	src: url('WebFont.eot');
+	src: url('WebFont.eot?#iefix') format('embedded-opentype'),
+	     url('WebFont.woff') format('woff'),
+	     url('WebFont.ttf') format('truetype'),
+	     url('WebFont.svg#webfont') format('svg');
+}
+.conteiner1{
+    display: flex;
+   flex-direction: column;
+    background-color: aliceblue;
+    justify-content: center;
+    justify-items: auto;
+    align-content: center;
+    align-items: center;
+    width: 360px;
+    height: 441px;
+    padding-right: 30px;
+    
+
+}
+.body{
+    background-color:#fdde7e ;
+    width: 1200px;
+    height: 600px;
+}
+    
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    
+
+    
+}
+
+
+.conteiner2{
+    display: flex;
+    flex-direction: column;
+    background-color: aliceblue;
+    justify-content: center;
+    align-items: center;
+    width: 361px;
+    height: 500px;
+padding-right: 30px;}
+
+.conteiner3{
+        display: flex;
+        flex-direction: column;
+        background-color: aliceblue;
+        justify-content: center;
+        align-items: center;
+        width: 361px;
+    height: 441px;}
+
+.im1 {
+    width: 52px; ;
+    height: 53px; ;
+}
+.im2 {
+    width: 49px; ;
+    height: 46px; ;
+}
+.im3 {
+    width: 135px; ;
+    height: 77px; ;
+}
+.text
+{margin-top: 38px;
+font-family: 'MyWebFont';
+font-weight: 200;
+   font-size: 57px;
+   justify-content: center;
+}
+
+.text1{
+    font-family:'misolight' ;
+    font-size: 14px;
+    justify-content: center;
+    padding: 42px;
+}
+.image3{
+    padding-left: 24px;
+    
+}
+.image1 {
+  padding: 48px;
+
+}
+.bean{
+    
+    position:absolute;
+}

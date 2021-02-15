@@ -1,0 +1,107 @@
+.body{
+    max-height: 816px;
+    max-width: 1200px;
+    width: 100%;
+    background-color: #e2e7ec;
+}
+.section1{
+    display: flex;
+    
+    max-height: 540px;
+    max-width: 1160px;
+    width: 100%;
+    margin: 0px 0px 20px 0px;
+    
+
+}
+.section2
+{
+    display: flex;
+    max-width:360px ;
+    max-height: 540px;
+    max-width: 1160px;
+    width: 100%;
+    
+}
+.bloc1{
+  max-width: 740px;
+  max-height: 540px;
+  margin-right: 20px;
+  
+}
+.bloc2{
+    max-width:360px;
+    max-height: 540px;
+    margin-right: 20px;
+    background-color: azure;
+}
+    
+    
+  
+.bloc3{
+    max-width:360px ;
+    max-height: 540px;
+    margin-right: 20px;
+    background-color: azure;
+  }
+.bloc4{
+    max-width: 360px ;
+    max-height: 540px;
+    margin-right: 20px;
+background-color: azure;}
+    
+.bloc5{
+        max-width: 360px ;
+        max-height: 540px;
+        background-color: azure;
+    }
+     
+
+.im1
+{
+    padding: 0px 0px 20px 0px;
+
+}
+.im2
+{
+    padding: 0px 0px 0px 28px;}
+    
+.im3
+{
+    padding: 23px 0px 0px 28px;
+}
+.im4
+{
+    padding: 71px 0px 0px 28px;
+}
+
+
+.img4
+{
+    padding: 62px 0px 0px 28px;
+}
+.img5
+{
+  padding: 70px 28px 25px 28px;
+}
+
+
+.imge2
+{
+    padding: 28px 29px 0px 28px;
+}
+
+.imge3
+{
+    padding: 22px 70px 0px 28px;
+}
+
+.imge4
+{
+    padding: 68px 28px 25px 28px;
+}
+.footer
+{
+    text-align: center;
+    padding: 61px 0px 0px 0px;
+}
